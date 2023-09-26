@@ -1,7 +1,7 @@
 # 💸 Digital10K-Contract
 The contract is simple and based on the EIP-712 standard which includes a customized transferWithPermit function. That enables users to perform gasless transfers by utilizing a signed permit signature. The transaction is then executed by a Relayer to transfer the token from the owner to the receiver.
 
-Read more EIP-712: [https://eips.ethereum.org/EIPS/eip-712](https://eips.ethereum.org/EIPS/eip-712)
+Read more EIP-712: [https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-712.md)
 
 ## Implements
 
